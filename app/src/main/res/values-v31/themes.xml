@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.DriveCare" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/drivecare_launch_window</item>
+        <item name="android:windowSplashScreenBackground">@color/drivecare_launch_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/drivecare_launcher_foreground</item>
+        <item name="android:windowSplashScreenAnimationDuration">300</item>
+    </style>
+</resources>

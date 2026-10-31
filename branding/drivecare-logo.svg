@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 128 128" role="img" aria-label="DriveCare logo">
+<path fill="#2563EB" fill-rule="evenodd" d="M64,5 C80,15 96,18 113,20 V59 C113,87 95,108 64,123 C33,108 15,87 15,59 V20 C32,18 48,15 64,5 Z"/>
+<path fill="#1D4ED8" fill-rule="evenodd" d="M64,5 C80,15 96,18 113,20 V59 C113,87 95,108 64,123 V5 Z"/>
+<path fill="#FFFFFF" fill-rule="evenodd" d="M37,34 H61 C84,34 97,46 97,64 C97,83 84,96 61,96 H37 V34 Z M51,48 V82 H61 C76,82 83,75 83,64 C83,54 76,48 61,48 H51 Z"/>
+<path fill="#75E2CA" fill-rule="evenodd" d="M76,82 L86,92 L111,65 L118,72 L86,107 L69,89 Z"/>
+<path fill="#A5BFFF" fill-rule="evenodd" d="M41,45 H47 V53 H41 Z M41,60 H47 V68 H41 Z M41,75 H47 V83 H41 Z"/>
+</svg>

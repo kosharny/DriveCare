@@ -1,0 +1,359 @@
+[
+  {
+    "name": "overview",
+    "file": "app/src/main/assets/artwork/overview.webp",
+    "source": "design/artwork/masters/overview.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 86072,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "maintenance",
+    "file": "app/src/main/assets/artwork/maintenance.webp",
+    "source": "design/artwork/masters/maintenance.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 117142,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "journal",
+    "file": "app/src/main/assets/artwork/journal.webp",
+    "source": "design/artwork/masters/journal.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 102156,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "statistics",
+    "file": "app/src/main/assets/artwork/statistics.webp",
+    "source": "design/artwork/masters/statistics.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 102720,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "garage",
+    "file": "app/src/main/assets/artwork/garage.webp",
+    "source": "design/artwork/masters/garage.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 121810,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "vehicle_setup",
+    "file": "app/src/main/assets/artwork/vehicle_setup.webp",
+    "source": "design/artwork/masters/vehicle_setup.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 96326,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "maintenance_setup",
+    "file": "app/src/main/assets/artwork/maintenance_setup.webp",
+    "source": "design/artwork/masters/maintenance_setup.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 98962,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "fuel_entry",
+    "file": "app/src/main/assets/artwork/fuel_entry.webp",
+    "source": "design/artwork/masters/fuel_entry.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 88986,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "expense_entry",
+    "file": "app/src/main/assets/artwork/expense_entry.webp",
+    "source": "design/artwork/masters/expense_entry.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 101570,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "service_entry",
+    "file": "app/src/main/assets/artwork/service_entry.webp",
+    "source": "design/artwork/masters/service_entry.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 98674,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "odometer_entry",
+    "file": "app/src/main/assets/artwork/odometer_entry.webp",
+    "source": "design/artwork/masters/odometer_entry.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 90176,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "note_entry",
+    "file": "app/src/main/assets/artwork/note_entry.webp",
+    "source": "design/artwork/masters/note_entry.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 90120,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "settings",
+    "file": "app/src/main/assets/artwork/settings.webp",
+    "source": "design/artwork/masters/settings.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 95752,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "pro",
+    "file": "app/src/main/assets/artwork/pro.webp",
+    "source": "design/artwork/masters/pro.png",
+    "width": 1600,
+    "height": 640,
+    "aspectRatio": "5:2",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 85282,
+    "quality": 94,
+    "sourceDimensions": [
+      1983,
+      793
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "onboarding_maintenance",
+    "file": "app/src/main/assets/artwork/onboarding_maintenance.webp",
+    "source": "design/artwork/masters/onboarding_maintenance.png",
+    "width": 1600,
+    "height": 1000,
+    "aspectRatio": "8:5",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 177074,
+    "quality": 94,
+    "sourceDimensions": [
+      1586,
+      992
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "onboarding_costs",
+    "file": "app/src/main/assets/artwork/onboarding_costs.webp",
+    "source": "design/artwork/masters/onboarding_costs.png",
+    "width": 1600,
+    "height": 1000,
+    "aspectRatio": "8:5",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 119936,
+    "quality": 94,
+    "sourceDimensions": [
+      1585,
+      992
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  },
+  {
+    "name": "onboarding_ai",
+    "file": "app/src/main/assets/artwork/onboarding_ai.webp",
+    "source": "design/artwork/masters/onboarding_ai.png",
+    "width": 1600,
+    "height": 1000,
+    "aspectRatio": "8:5",
+    "format": "webp",
+    "colorSpace": "sRGB",
+    "alpha": true,
+    "bytes": 121994,
+    "quality": 94,
+    "sourceDimensions": [
+      1586,
+      992
+    ],
+    "safeMargins": "At least 12% transparent padding on every side",
+    "fit": "ContentScale.Fit; no crop",
+    "appearance": "Shared light/dark",
+    "generator": "Built-in image_gen; prompts.json contains generation and correction prompts"
+  }
+]

@@ -1,0 +1,171 @@
+DRIVECARE — ИЗОБРАЖЕНИЯ ДЛЯ ЭКРАНОВ И ОНБОРДИНГА
+
+В приложении уже подключены места для всех изображений и отдельные векторные
+иллюстрации по умолчанию. Ниже — задания для финальных иллюстраций, которые
+можно заказать дизайнеру или использовать как промпты генератору изображений.
+Все 17 растровых иллюстраций сгенерированы и добавлены 25.10.2026.
+Готовые WebP: app/src/main/assets/artwork/.
+PNG-оригиналы, промпты, манифест и обзор светлой/тёмной темы:
+design/artwork/. Исходные задания ниже сохранены для дальнейших правок.
+
+КАК ДОБАВИТЬ
+1. Экспортировать каждую иллюстрацию в WebP (sRGB). Имена файлов ниже точные,
+   строчными латинскими буквами, без пробелов.
+2. Поместить файлы в app/src/main/assets/artwork/ текущего репозитория.
+3. Пересобрать приложение. Менять Kotlin-код или ресурсы не нужно.
+   Пока файл отсутствует, видна соответствующая векторная иллюстрация.
+4. Для шапок: 1600 x 640 px (5:2); для онбординга: 1600 x 1000 px (8:5).
+   Рекомендуемый вес каждого файла до 250–400 КБ. Альфа-канал приветствуется.
+   Приложение вписывает изображение целиком, без обрезки, в скруглённый контейнер.
+
+ОБЩИЙ СТИЛЬ ВСЕГО КОМПЛЕКТА
+Спокойная современная автомобильная иллюстрация: мягкие объёмы, простой силуэт,
+матовые материалы, чистый контур, минимум деталей. Один узнаваемый синий
+компактный автомобиль без марки и логотипа на всех изображениях. Палитра:
+синий #4B7BEC, светлый голубой #BDD8FF, мягкая бирюза #6ECFC4,
+тёмный графит #25324B; небольшие тёплые акценты. Основная композиция по центру,
+вокруг неё свободные 12% поля. Предметы хорошо читаются на маленьком экране.
+Прозрачный фон позволит использовать тему приложения в светлом и тёмном режиме.
+Не рисовать текст, цифры, логотипы, госномера, водяные знаки, кнопки или интерфейс.
+Не изображать повреждения, аварии, чрезмерный глянец или рекламный суперкар.
+
+Базовый английский префикс для каждого промпта:
+"Create a cohesive premium mobile-app illustration for DriveCare. Soft sculpted
+shapes, matte surfaces, restrained blue and teal palette, graphite details, calm
+friendly mood. Use the same generic compact blue hatchback, with no brand marks.
+Transparent background, centered composition, generous safe margins, legible at
+small size. No text, numbers, logos, license plates, watermarks or UI controls."
+Добавьте к нему описание конкретной сцены ниже и нужное соотношение сторон.
+
+01. ГЛАВНАЯ — «Спокойствие в пути»
+Файл: overview.webp
+Сцена: синий автомобиль на короткой плавной дороге. Рядом компактный щит
+с галочкой и два маленьких листа. Ощущение контроля и готовности к поездке.
+Prompt: "The blue car on a short gently curving road, a small shield with a check
+mark beside it, two subtle leaves. Balanced reassuring composition. Aspect 5:2."
+
+02. ТЕХОБСЛУЖИВАНИЕ — «Всё вовремя»
+Файл: maintenance.webp
+Сцена: автомобиль, календарь с цветными точками вместо цифр и аккуратный
+гаечный ключ. Главный акцент — календарь, без тревожных красных индикаторов.
+Используется в календаре ТО и подробностях плана.
+Prompt: "The blue car beside a sculpted calendar with abstract colored dots and
+a neat wrench. Calendar is the main supporting object. Calm planning. Aspect 5:2."
+
+03. ЖУРНАЛ — «История заботы»
+Файл: journal.webp
+Сцена: небольшой автомобиль рядом с открытым блокнотом, закладкой и двумя
+карточками-чеками без надписей. Упорядоченная история обслуживания и расходов.
+Используется в списке и подробностях записи.
+Prompt: "The blue car beside an open notebook, a ribbon bookmark and two small
+blank receipt cards. Neat layered objects, sense of organized history. Aspect 5:2."
+
+04. СТАТИСТИКА — «Понятные расходы»
+Файл: statistics.webp
+Сцена: автомобиль, три мягких столбика диаграммы разной высоты и несколько
+абстрактных монет без символа валюты. График нейтральный, без обещаний экономии.
+Prompt: "The blue car beside three rounded chart bars of different heights and
+a few unmarked coins. Clear neutral financial overview, no promises. Aspect 5:2."
+
+05. ГАРАЖ — «Место для вашего авто»
+Файл: garage.webp
+Сцена: автомобиль под открытым лаконичным навесом, мягкий свет и небольшая
+связка ключей сбоку. Уютное, личное и аккуратное пространство.
+Prompt: "The blue car parked beneath a minimal open garage canopy, soft light
+and a small key ring to the side. Cozy organized personal space. Aspect 5:2."
+
+06. ДОБАВЛЕНИЕ И РЕДАКТИРОВАНИЕ АВТО — «Знакомство с автомобилем»
+Файл: vehicle_setup.webp
+Сцена: автомобиль в ракурсе три четверти. Рядом карточка силуэта авто
+и увеличительное стекло: метафора удобного поиска марки и модели.
+Одна иллюстрация используется на обоих шагах формы.
+Prompt: "Three-quarter view of the blue car, a blank vehicle profile card and
+a magnifying glass beside it. Friendly discovery and setup. Aspect 5:2."
+
+07. СОЗДАНИЕ И РЕДАКТИРОВАНИЕ ПЛАНА ТО — «Следующий шаг заботы»
+Файл: maintenance_setup.webp
+Сцена: календарь, ключ и небольшая дорожка из трёх точек, ведущая к автомобилю.
+Помогает воспринимать планирование как несколько простых шагов.
+Также используется на экране предложения первых планов ТО.
+Prompt: "A small calendar and wrench, a short three-dot path leading to the blue
+car. A simple approachable next maintenance step. Aspect 5:2."
+
+08. ЗАПРАВКА — «Топливо для новых маршрутов»
+Файл: fuel_entry.webp
+Сцена: автомобиль рядом с нейтральной топливной колонкой. Бирюзовая капля,
+никаких цен, километров, шкал прогноза или бренда АЗС.
+Prompt: "The blue car beside a simple unbranded fuel pump, one small teal fuel
+drop. Clean everyday refueling scene, no range estimate or gauges. Aspect 5:2."
+
+09. ДОБАВЛЕНИЕ РАСХОДА — «Каждый расход на своём месте»
+Файл: expense_entry.webp
+Сцена: автомобиль, пустой чек и несколько нейтральных монет.
+Композиция проще, чем на экране статистики, без диаграмм.
+Prompt: "The blue car beside a blank sculpted receipt and a few unmarked coins.
+A simple organized expense entry, no charts. Aspect 5:2."
+
+10. ЗАПИСЬ ВЫПОЛНЕННОГО ТО — «Забота сделана»
+Файл: service_entry.webp
+Сцена: автомобиль, аккуратно сложенные ключ и отвёртка, небольшая галочка.
+Чистый образ завершённого обслуживания, без разобранного двигателя.
+Prompt: "The blue car with a neatly arranged wrench and screwdriver, a small
+check mark badge. Clean completed maintenance, no dismantled engine. Aspect 5:2."
+
+11. ЗАПИСЬ ПРОБЕГА — «Ваш реальный путь»
+Файл: odometer_entry.webp
+Сцена: автомобиль на коротком участке дороги, рядом абстрактный одометр
+с пустыми сегментами, без придуманных показаний и прогнозов.
+Prompt: "The blue car on a short road, a small stylized odometer with blank
+segments. Actual journey logging, no numbers or range prediction. Aspect 5:2."
+
+12. ЗАМЕТКА — «Полезное под рукой»
+Файл: note_entry.webp
+Сцена: небольшой автомобиль, карточка заметки со скруглёнными углами,
+карандаш и закладка. Без рукописного или печатного текста.
+Prompt: "A small blue car beside a rounded blank note card, pencil and bookmark.
+Friendly practical reminder, no handwriting. Aspect 5:2."
+
+13. НАСТРОЙКИ — «Всё по-вашему»
+Файл: settings.webp
+Сцена: автомобиль, два тактильных ползунка и шестерёнка. Ползунки являются
+декоративными объектами, а не скриншотом реальных элементов управления.
+Prompt: "The blue car with two abstract tactile sliders and a simple gear as
+physical decorative objects. Personalized comfort. Not a UI screenshot. Aspect 5:2."
+
+14. DRIVECARE PRO — «Больше возможностей для гаража»
+Файл: pro.webp
+Сцена: два автомобиля той же стилистики — синий и светло-бирюзовый,
+за ними прозрачная карточка отчёта с абстрактными столбиками.
+Не изображать безлимитный ИИ или покупку как уже совершённую.
+Prompt: "Two matching compact cars, blue and pale teal, with a translucent
+report card showing abstract bars behind them. Expanded garage and reporting.
+No infinity symbols or purchase-success imagery. Aspect 5:2."
+
+15. ОНБОРДИНГ, СЛАЙД 1 — «Забота без суеты»
+Файл: onboarding_maintenance.webp
+Сцена: автомобиль в центре, по мягкой дуге вокруг календарь, ключ и щит
+с галочкой. Больше воздуха и глубины, чем в шапке экрана ТО.
+Prompt: "A larger central blue car, with a calendar, wrench and check-mark shield
+floating in a gentle arc around it. Relaxed car-care introduction, generous
+negative space. Aspect 8:5."
+
+16. ОНБОРДИНГ, СЛАЙД 2 — «Вся история в одном месте»
+Файл: onboarding_costs.webp
+Сцена: автомобиль и аккуратная группа из чека, блокнота, капли топлива
+и трёх столбиков графика. Объекты связаны общей композицией, без мелкой россыпи.
+Prompt: "The blue car with a coherent cluster of a blank receipt, notebook,
+fuel drop and three rounded chart bars. One organized ownership story,
+not scattered tiny icons. Aspect 8:5."
+
+17. ОНБОРДИНГ, СЛАЙД 3 — «Подсказки для вашего автомобиля»
+Файл: onboarding_ai.webp
+Сцена: автомобиль, две мягкие пустые речевые карточки и небольшая искра.
+Без робота, диагностического сканера и обещания точного диагноза.
+Prompt: "The blue car beside two soft blank speech bubbles and one subtle
+sparkle. Helpful optional conversation, calm human-centered tone, no robot,
+scanner or diagnostic certainty. Aspect 8:5."
+
+На самом экране «ИИ-гараж» и в его пустом состоянии изображения нет,
+как и было запрошено. Иллюстрация onboarding_ai нужна только третьему слайду.
+Системные диалоги выбора даты, поиска, разрешений и файлов отдельных шапок
+не имеют. На пустых экранах используется иллюстрация соответствующего раздела.
